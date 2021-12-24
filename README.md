@@ -2,7 +2,7 @@
 
 [![Twitch](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateuseixas/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seiixas)](https://github.com/anuraghazra/github-readme-stats&theme=midnight-purple&show_icons=true)
+[![Meu Github](https://github-readme-stats.vercel.app/api?username=Seiixas&theme=midnight-purple&show_icons=true)](https://github.com/Seiixas/github-readme-stats)
 
 Me chamo Mateus! Sou um curioso amante da tecnologia e, mais precisamente, na área de desenvolvimento. Tenho formação em Técnico em Informática pelo IFGOIANO e atualmente estou no curso superior em Bacharelado em Sistemas de Informação pelo IFNMG.
 
