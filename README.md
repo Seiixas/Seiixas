@@ -1,6 +1,6 @@
 <div id="sobre_mim">
   <h1> Olá! Bem-vindo(a) 👋 </h1>
-  <p>🇺🇸 🇬🇧 For an english version, click <a href="README-EN.md">here</a></p>
+  <p>🇺🇸 🇬🇧 For english version, click <a href="README-EN.md">here</a>.</p>
   <a href="https://www.linkedin.com/in/mateuseixas/">
     <img src="https://img.shields.io/badge/LinkedIn-181424?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Botão para abrir o perfil do LinkedIn de Mateus Seixas">

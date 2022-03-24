@@ -1,10 +1,11 @@
 <div id="aboutme">
   <h1> Hi, there! Welcome 👋 </h1>
-  <a href="https://www.linkedin.com/in/mateuseixas/">
+  <p>🇧🇷🇵🇹 Para a versão em português, clique <a href="README.md">aqui</a>.</p>
+  <h2>😃 About me</h2>
+   <a href="https://www.linkedin.com/in/mateuseixas/">
     <img src="https://img.shields.io/badge/LinkedIn-181424?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Button to open Mateus Seixas's LinkedIn profile">
   </a>
-  <h2>😃 About me</h2>
   <p>Hi, my name is Mateus! I'm a curious lover of technology and, more precisely, in the development area. I have degree in Computer Technician at IFGOIANO and currently i'm in the higher course in Bachelor's Degree in Information Systems by IFNMG.</p>
 </div>
 <div id="stack">
