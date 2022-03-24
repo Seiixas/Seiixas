@@ -43,11 +43,11 @@
     HTML, CSS, JavaScript e ReactJS para me tornar full-stack.</p>
 </div>
 
-<div id="estatisticas" style="display: flex; justify-content: center">
+<div id="estatisticas" align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Seiixas&theme=radical&show_icons=true"
     alt="Painel mostrando as estrelas obtidas, total de commits, total de PRs, total de issues e total de contribuicoes no perfil do Mateus Seixas">
 
-  <img height="110em"
+  <img height="200em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seiixas&layout=compact&langs_count=7&theme=radical"
     alt="Ranking mostrando as linguagens de programacao mais utilizadas por Mateus Seixas">
 </div>
