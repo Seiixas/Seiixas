@@ -13,7 +13,7 @@
 <div id="stack">
   <h2>🧠 Stack</h2>
 
-  <div class="imagens-tech">
+  <div class="imagens-tech" align="center">
     <img src="https://img.shields.io/badge/C-d43a7a?style=for-the-badge&logo=c&logoColor=white"
       alt="Ícone da linguagem de programacao C">
     <img src="https://img.shields.io/badge/Java-d43a7a?style=for-the-badge&logo=java&logoColor=white"
@@ -27,7 +27,7 @@
   <p>Iniciei meus estudos em C, PHP e Java no meu curso técnico onde desenvolvi algumas atividades, projetos pessoais e
     aplicativos que foram para producão</p>
   
-  <div class="imagens-tech">
+  <div class="imagens-tech" align="center">
     <img src="https://img.shields.io/badge/TypeScript-181424?style=for-the-badge&logo=typescript&logoColor=white"
       alt="Ícone da linguagem de programacao TypeScript">
     <img src="https://img.shields.io/badge/PostgreSQL-181424?style=for-the-badge&logo=postgresql&logoColor=white"
@@ -43,7 +43,7 @@
     HTML, CSS, JavaScript e ReactJS para me tornar full-stack.</p>
 </div>
 
-<div id="estatisticas">
+<div id="estatisticas" align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Seiixas&theme=radical&show_icons=true"
     alt="Painel mostrando as estrelas obtidas, total de commits, total de PRs, total de issues e total de contribuicoes no perfil do Mateus Seixas">
 
@@ -52,14 +52,6 @@
     alt="Ranking mostrando as linguagens de programacao mais utilizadas por Mateus Seixas">
 </div>
 
-![Snake animation](https://github.com/Seiixas/Seiixas/blob/output/github-contribution-grid-snake.svg)
-
-<style>
-  div#estatisticas {
-    text-align: center;
-  }
-
-  div.imagens-tech {
-    text-align: center;
-  }
-</style>
+<img 
+  src="https://github.com/Seiixas/Seiixas/blob/output/github-contribution-grid-snake.svg"
+  alt="Imagem do joguinho da cobrinha comendo os commits do perfil ">
