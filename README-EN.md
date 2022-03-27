@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-181424?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Button to open Mateus Seixas's LinkedIn profile">
   </a>
-  <p>Hi, my name is Mateus! I'm a curious lover of technology and, more precisely, in the development area. I have degree in Computer Technician at IFGOIANO and currently i'm in the higher course in Bachelor's Degree in Information Systems by IFNMG.</p>
+  <p>Hi, my name is Mateus! I'm a curious lover of technology and, more precisely, in the development area. I have a degree in Information Technology (IT) at IFGOIANO and currently I'm majoring in Bachelor's Degree in Information Systems by IFNMG.</p>
 </div>
 <div id="stack">
   <h2>🧠 Stack</h2>
@@ -22,7 +22,7 @@
       alt="Icon of MySQL Database Management System">
   </div>
 
-  <p>I started my studies in C, PHP and Java in my technician course where i developed some activities, personal projects and applications that were in production</p>
+  <p>I started my studies in C, PHP and Java in my technician course where I developed some activities, personal projects and applications that were in production</p>
   
   <div class="images-tech">
     <img src="https://img.shields.io/badge/TypeScript-181424?style=for-the-badge&logo=typescript&logoColor=white"
@@ -36,7 +36,7 @@
       alt="Icon of React.js framework">
 
   </div>
-  <p>Now days, i'm focused on back-end with Node.js and TypeScript. However, i'm currently studying front-end with HTML, CSS, JavaScript and ReactJS to became a full-stack developer</p>
+  <p>Nowadays, I'm focused on back-end with Node.js and TypeScript. However, I'm currently studying front-end with HTML, CSS, JavaScript and ReactJS to become a full-stack developer.</p>
 </div>
 
 <div id="stats">
