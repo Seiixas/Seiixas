@@ -1,11 +1,11 @@
 <div id="sobre_mim">
   <h1> Olá! Bem-vindo(a) 👋 </h1>
   <p>🇺🇸 🇬🇧 For english version, click <a href="README-EN.md">here</a>.</p>
+  <h2>😃 Sobre mim</h2>
   <a href="https://www.linkedin.com/in/mateuseixas/">
     <img src="https://img.shields.io/badge/LinkedIn-181424?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Botão para abrir o perfil do LinkedIn de Mateus Seixas">
   </a>
-  <h2>😃 Sobre mim</h2>
   <p>Me chamo Mateus! Sou um curioso amante da tecnologia e, mais precisamente, na área de desenvolvimento. Tenho
     formação em Técnico em Informática pelo IFGOIANO e atualmente estou no curso superior em Bacharelado em Sistemas de
     Informação pelo IFNMG.</p>
