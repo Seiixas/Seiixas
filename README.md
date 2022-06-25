@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="./img/githubcard.png"/>
+<img align="right" height="560em" src="./img/githubcard.png"/>
 <h1 align="left">
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">
   <span>&nbsp; Welcome!</span>
