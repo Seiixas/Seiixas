@@ -1,26 +1,26 @@
 <img align="right" height="590em" src="./img/githubcard.png"/>
 <h1 align="left">
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">
-  <span>&nbsp; Welcome!</span>
+  <span>&nbsp; Bem-vindo!</span>
 </h1>
 
-🇧🇷 🇵🇹 For portuguese version, click [here](./README-PT.md).
+🇺🇸 🇬🇧 Para a versão em inglês, clique [aqui](./README.md).
 
 ### Overview
 
-- 💻 Junior FullStack Software Engineer
+- 💻 Desenvolvedor FullStack Júnior.
 
-- 🚀 I'm hubnauta at [Hublocal](http://hublocal.com.br/).
+- 🚀 Sou Hubnauta na [Hublocal](http://hublocal.com.br/).
 
-- 📕 Iginte's student at [Rocketseat](https://github.com/Rocketseat).
+- 📕 Aluno do Ignite na [Rocketseat](https://github.com/Rocketseat).
 
-- 🎓 Bachelor's Degree in Information Systems at [Federal Institute of the North of Minas Gerais](https://ifnmg.edu.br/januaria) (in progress).
+- 🎓 Bacharelando em Sistemas de Informação pelo [IFNMG - Campus Januária](https://ifnmg.edu.br/januaria).
 
-- 💾 Information Technology (IT) at [Federal Institute Goiano](https://ifgoiano.edu.br/urutai).
+- 💾 Técnico em Informática pelo [IF Goiano - Campus Urutaí](https://ifgoiano.edu.br/urutai).
 
 <br><br>
 
-### 🛠 &nbsp; Stack
+### 🛠 &nbsp; Minha Stack
 
 <div class="imagens-tech" align="center">
   <img src="https://img.shields.io/badge/Node.js-181424?style=for-the-badge&logo=node.js&logoColor=white" alt="Ícone da ferramenta Node.js">
@@ -34,7 +34,7 @@
   
 </div>
 
-### 🙋 &nbsp; Get to know me better
+### 🙋 &nbsp; Me conheça melhor
 
 <div align="center">
 <a href="https://www.linkedin.com/in/mateuseixas/">
