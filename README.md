@@ -30,7 +30,7 @@ Oooh, my name is Mateus, btw.
 
 ##### Tools
 
-![My Skills](https://skillicons.dev/icons?i=docker,git,bash,vscode,linux&theme=dark)]
+![My Skills](https://skillicons.dev/icons?i=docker,git,bash,vscode,linux&theme=dark)
 
 ##### Databases
 
