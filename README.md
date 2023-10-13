@@ -1,10 +1,8 @@
-# Welcome
+## 👋🏼 Hello !!
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mateuseixas/)
 
 🇧🇷 🇵🇹 For portuguese version, click [here](./README-PT.md).
-
-### 👋🏼 Overview
 
 Full-Stack Web Developer and specialist in Back-end development with over 2 years of experience.
 
@@ -22,21 +20,20 @@ Oooh, my name is Mateus, btw.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seiixas&layout=compact&langs_count=10&theme=radical"
     alt="Ranking mostrando as linguagens de programacao mais utilizadas por Mateus Seixas">
 </div>
-
 <div align="left">
 
 ### 🛠 &nbsp; Stack
 
 ##### Programming languages, frameworks and related
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,nodejs,spring)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,ts,java,nodejs,spring)
 
 ##### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,bash,vscode,linux&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=docker,git,bash,vscode,linux&theme=dark)]
 
 ##### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark)
 
 </div>
