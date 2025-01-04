@@ -4,7 +4,7 @@
 
 🇧🇷 🇵🇹 For portuguese version, click [here](./README-PT.md).
 
-Full-Stack Web Developer and specialist in Back-end development with over 2 years of experience.
+Full-Stack Web Developer and specialist in Back-end development with over 3 years of experience.
 
 I already worked in software houses, government institutions and companies with their own SaaS technology. Nowadays, I use to work with JavaScript and its own ecosystem (NestJS and React), but I also used to work with Spring Boot.
 
